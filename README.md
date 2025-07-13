@@ -1,16 +1,24 @@
-# mifisica
+# 📱 MiFisica
 
-A new Flutter project.
+**MiFisica** is a mobile app built using Flutter and Firebase, initially developed using FlutterFlow and later migrated to a custom Flutter project for greater flexibility and control.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- 🔐 User Authentication (Login, Sign Up, Forgot Password)
+- 📚 Interactive Lessons and Quizzes
+- 📊 Progress Tracking Dashboard
+- 🔔 Notifications and Reminders
+- 🌐 Firebase Backend Integration
+- 📥 Cloud Firestore & Firebase Storage
+- 📱 Responsive UI for multiple screen sizes
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter** (UI)
+- **Firebase** (Auth, Firestore, Storage)
+- **FlutterFlow** (Initial Prototyping)
+- **Provider / Riverpod / Bloc** (State Management - if used)
+- **Git** (Version Control)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Folder Structure
+
