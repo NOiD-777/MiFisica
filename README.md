@@ -94,4 +94,4 @@ Feel free to fork this repo and contribute via pull requests. All improvements a
 
 For questions or support:  
 📧 abhicdpf@gmail.com  
-🔗 [GitHub Profile][https://github.com/yourusername](https://github.com/NOiD-777/)]
+🔗 [GitHub Profile][https://github.com/NOiD-777/]
