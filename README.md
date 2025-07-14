@@ -2,6 +2,11 @@
 
 **MiFisica** is a mobile learning app built using Flutter and Firebase. Originally designed in FlutterFlow, it has been fully migrated into a custom Flutter project for better scalability, maintainability, and performance.
 
+## 📦 Download APK
+
+[Download MiFisica APK](https://github.com/NOiD-777/MiFisica/releases/download/v1.0.0/MiFisica.apk)
+
+
 ## ✨ Features
 
 - 🔐 Firebase Authentication (Sign Up, Login, Forgot Password)
